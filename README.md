@@ -1,23 +1,17 @@
 <h1 align="center">Hola 👋, I'm Fenil Chauhan</h1>
-<h3 align="center">GDSC Lead'23 | Microsoft Learn Student Ambassador | Cyber Security Aspirant | Always looking out to solve problems efficiently</h3>
-<img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<h3 align="center">Cyber Security Analyst | Cybersecurity | Blockchain | AI/ML | Ethical Hacking | ISO 27001 | Bug Bounty | Always looking out to solve problems efficiently</h3>
 
-- 🔭 I’m currently working on **ISO/IEC 27001**
 
-- 🌱 I’m currently learning **Cybersecurity , OSCP ,Blockchain, PJPT,Bug bounty, PNPT, Tensorflow, ISO:27001**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on [Antispoofing Project](https://github.com/Fenil2511/Anti_Spoofing)
-
-- 👨‍💻 All of my projects are available at [https://blue-sea-072512500.4.azurestaticapps.net/](https://blue-sea-072512500.4.azurestaticapps.net/)
-
-- 📝 I write articles on [https://medium.com/@Rabbit7](https://medium.com/@Rabbit7)
-
-- 💬 Ask me about **Cybersecurity**
-
-- 📫 How to reach me **fenilchauhan349@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rc6nb9wagHFLlonCHLoFVm68zlcG9TAd/view?usp=sharing](https://drive.google.com/file/d/1rc6nb9wagHFLlonCHLoFVm68zlcG9TAd/view?usp=sharing)
-
+- 🔭 Currently contributing to **ISO/IEC 27001 implementation** and cybersecurity audits.
+- 🌱 Deepening skills in **OSCP, Blockchain Security, Bug Bounty, PJPT, PNPT, TensorFlow, ISO 27001 standards**.
+- 🛡️ Passionate about **digital forensics**, **smart contract auditing**, and **cryptocurrency investigations**.
+- 👯 Open to collaborations on innovative security projects like:  
+  [`🔗 Anti-Spoofing Using AI`](https://github.com/Fenil2511/Anti_Spoofing)
+- 📚 Author on cybersecurity & blockchain topics on [📖 Medium @Rabbit7](https://medium.com/@Rabbit7)
+- 💬 Ask me about:  
+  `Cybersecurity | Blockchain Forensics | Smart Contract Security | IAM | VAPT | ISMS`
 - ⚡ Fun fact **"When you come out of your comfort zone then you will get success""**
 
 <h3 align="left">Connect with me:</h3>
