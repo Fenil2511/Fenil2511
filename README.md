@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Fenil Chauhan</h1>
-<h3 align="center">Cyber Security Analyst | Cybersecurity | Blockchain | AI/ML | Ethical Hacking | ISO 27001 | Bug Bounty | Always looking out to solve problems efficiently</h3>
+<h3 align="center">Cyber Security Analyst | Blockchain | AI/ML | Ethical Hacking | ISO 27001 | Bug Bounty | Always looking out to solve problems efficiently</h3>
 
 
 ## 🚀 About Me
